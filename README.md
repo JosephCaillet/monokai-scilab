@@ -1,9 +1,7 @@
 # monokai-scilab
 Monokai color sheme for Scilab.
 
-This repository is under:
-
-DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE /  LICENCE PUBLIQUE RIEN À BRANLER
+This repository is under: WTFPL / LBRAB
 
 ## Install instruction
 You first need to find/open your preference file.
