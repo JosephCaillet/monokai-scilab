@@ -1,7 +1,7 @@
 # monokai-scilab
 Monokai color sheme for Scilab.
 
-This repository is under: WTFPL / LBRAB
+![monokai for scilab screenshot](https://raw.githubusercontent.com/JosephCaillet/monokai-scilab/master/screenshot-monokai-scilab.png)
 
 ## Install instruction
 You first need to find/open your preference file.
