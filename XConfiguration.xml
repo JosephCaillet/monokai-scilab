@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<interface height="616" path="5/" version="0.18" width="1171">
+<interface height="592" path="5/" version="0.18" width="1111">
     <general title="_(General)">
     <body>
         <environment fpe="0" printing-format="v" width="10">
@@ -287,9 +287,9 @@
 </fonts>
     <colors title="_(Colors)">
     <body>
-        <desktop-colors background="#ffffff" cursor="#000000" text="#000000" use-system-color="true"/>
-        <syntax-highlighting-colors name="LaTeXInComment">
-            <item bold="false" color="#272822" italic="false" name="Default" strike-through="false" underline="false"/>
+        <desktop-colors background="#272826" cursor="#ffffff" text="#ffffff" use-system-color="false"/>
+        <syntax-highlighting-colors name="Default">
+            <item bold="false" color="#f92772" italic="false" name="Default" strike-through="false" underline="false"/>
             <item bold="false" color="#FFAA00" italic="false" name="Special" strike-through="false" underline="false"/>
             <item bold="false" color="#f92772" italic="false" name="Operator" strike-through="false" underline="false"/>
             <item bold="false" color="#a7e22e" italic="false" name="Primitive" strike-through="false" underline="false"/>
@@ -344,8 +344,9 @@
     <header title="_(Header)">
         <body>
             <scinotes-header enable="true"><![CDATA[// Date of creation: {$current-date}
+// TP n°  - exercice n°
 // Joseph Caillet
-]]></scinotes-header>
+clc; clear; xdel(winsid());]]></scinotes-header>
         </body>
     </header>
     <autosave title="_(Autosave)">
